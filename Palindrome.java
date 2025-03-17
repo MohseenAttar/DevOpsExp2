@@ -1,3 +1,5 @@
+// Program to check given number is palindrome or not
+
 import java.util.*;
 
 class GFG {
