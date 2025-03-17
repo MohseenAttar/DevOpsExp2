@@ -26,4 +26,4 @@ class GFG {
             System.out.println(n+" is not palindrome number");
      }
 }
-          -----------Thank You !!-----------
+          //-----------Thank You !!-----------
